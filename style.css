@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f2bde7
+}
+#txtbox{
+    height: 40vh;
+    width: 70vw;
+    background-color: #eb9bd9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(82, 10, 55);
+    display: inline-block;
+    margin-left: 15vw;
+    margin-top: 27vh;
+    padding-top: 5vh;
+    border-radius: 7%;
+}
+#main{
+    width: 70vw;
+    height: 40vh;
+    background-color: #eb9bd9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(82, 10, 55);
+    margin-left: 15vw;
+    margin-top: 27vh;
+    padding-top: 4vh;
+    border-radius: 7%;
+}
+.chalo{
+    width: 70vw;
+    height: 43vh;
+    background-color: #eb9bd9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: rgb(82, 10, 55);
+    margin-left: 15vw;
+    margin-top: 27vh;
+    padding-top: 7vh;
+    border-radius: 7%;
+}
+#thanks{
+    width: 70vw;
+    height: 43vh;
+    background-color: #eb9bd9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: rgb(82, 10, 55);
+    margin-left: 15vw;
+    margin-top: 27vh;
+    padding-top: 7vh;
+    border-radius: 7%;
+}
+#ily{
+    height: 40vh;
+    width: 70vw;
+    background-color: #eb9bd9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(82, 10, 55);
+    display: inline-block;
+    margin-left: 15vw;
+    margin-top: 27vh;
+    padding-top: 5vh;
+    border-radius: 7%;
+}
+button{
+    height: 4vh;
+    width: 18vw;
+    font-family: 'Courier New', Courier, monospace;
+    color: #540735;
+}
+#hub{
+    margin-left: 5vh;
+}
+#nhi{
+    margin-left:5vh ;
+}
